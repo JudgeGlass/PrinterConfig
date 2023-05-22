@@ -1,0 +1,4 @@
+Z-Offset: -0.72mm
+Bed: PEI
+Nozzel: 0.4mm
+Dim: 250mm x 250mm x 250mm
